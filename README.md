@@ -1,2 +1,2 @@
 # smoke-QA-Belarus
-Smoke test check of capital.com
+To view our table you need to download the .zip file and unzip it :)
